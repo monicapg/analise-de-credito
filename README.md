@@ -1,2 +1,2 @@
 # analise-de-credito
-Exercício para aprender Spring e Java
+Exercício de Spring e Java
